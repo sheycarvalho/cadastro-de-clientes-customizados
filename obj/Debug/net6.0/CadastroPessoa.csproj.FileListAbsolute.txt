@@ -1,0 +1,15 @@
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.exe
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.deps.json
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.runtimeconfig.json
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.dll
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.pdb
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.csproj.AssemblyReference.cache
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.AssemblyInfoInputs.cache
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.AssemblyInfo.cs
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.dll
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\refint\CadastroPessoa.dll
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.pdb
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.genruntimeconfig.cache
+C:\Users\Sheyenne\Desktop\UC12 - BACKEND\CadastroPessoa\obj\Debug\net6.0\ref\CadastroPessoa.dll
