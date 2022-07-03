@@ -57,7 +57,7 @@ namespace CadastroPessoa.Classes
 
                 DateTime dataConvertida;
 
-                if (DateTime.TryParse(dataNasc, out dataConvertida) == true)
+                if (DateTime.TryParse(dataNasc, out dataConvertida))
                 {
                     DateTime dataAtual = DateTime.Today;
                     
