@@ -10,7 +10,6 @@ namespace CadastroPessoa.Classes
         public DateTime dataNasc { get; set; }
         
         
-        
         public override float PagarImposto(float rendimento)
         {
             if (rendimento <= 1500)
@@ -23,7 +22,7 @@ namespace CadastroPessoa.Classes
 
                 return resultado;
 
-            }else if (rendimento >3500 && rendimento <= 6000)
+            }else if (rendimento > 3500 && rendimento <= 6000)
             {
                 float resultado = (rendimento / 100) * 3.5f;
 

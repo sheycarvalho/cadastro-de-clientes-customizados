@@ -73,7 +73,7 @@ do
                 if (dataValida)
                 {
                    DateTime DataConvertida;
-                   DateTime.TryParse(dataNascimento ou DataConvertida);
+                   DateTime.TryParse(dataNascimento, out DataConvertida);
 
                    novaPf.dataNasc = DataConvertida; 
                 }
@@ -118,6 +118,19 @@ do
 
             listaPf.Add(novaPf);
 
+
+
+// arquivo txt
+            // StreamWriter sw = new StreamWriter($"{novaPf.Nome}.txt");
+            // sw.WriteLine(novaPf.Nome);
+            // sw.Close();
+
+//elimina uso do close
+            using (StreamWriter sw = new StreamWriter($"{novaPf.Nome}.txt"))
+            {
+                sw.WriteLine(novaPf.Nome);
+            }
+
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine($"Cadastrado realizado com sucesso");
             Console.ResetColor();
@@ -150,6 +163,21 @@ Imposto a ser pago: {metodosPf.PagarImposto(cadaPessoa.Rendimento).ToString("C")
                     Thread.Sleep(3000);
                 }
 
+                using (StreamReader sr = new StreamReader("Sheyenne.txt"))
+                {
+                    string linha;
+                    while ((linha = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine($"{linha}");
+                    }
+                }
+
+                Console.WriteLine($"Aperte ENTER para continuar!");
+                Console.ReadLine();
+
+
+
+
                 break;
 
             case "0":
@@ -165,9 +193,6 @@ Imposto a ser pago: {metodosPf.PagarImposto(cadaPessoa.Rendimento).ToString("C")
         }
   
         } while (opcaoPf != "0");
-
-            // Console.WriteLine($"Nome: {novaPf.Nome} Nome: {novaPf.Nome}");
-            // Console.WriteLine("Nome: " + novaPf.Nome + " Nome: " + novaPf.Nome);
             
             break;
 
@@ -240,6 +265,13 @@ Imposto a ser pago: {metodosPf.PagarImposto(cadaPessoa.Rendimento).ToString("C")
                         Console.ResetColor();
                         Thread.Sleep(3000);
 
+
+                    metodosPj.Inserir(novaPj);
+
+
+
+                    List<PessoaJuridica> ListaPj = metodosPj.LerArquivo();
+
                         break;
 
                     case "2":
@@ -307,7 +339,7 @@ Imposto devido: {metodosPj.PagarImposto(cadaPessoaJ.rendimento).ToString("C")}
             Console.WriteLine($"Obrigado por utilizar nosso sistema!");
             Thread.Sleep(3000);
 
-            BarraCarregamento("Finalizando", 500, 6);
+            Utils.BarraCarregamento("Finalizando", 500, 6);
 
             break;
 
@@ -316,7 +348,7 @@ Imposto devido: {metodosPj.PagarImposto(cadaPessoaJ.rendimento).ToString("C")}
             Console.ForegroundColor - ConsoleColor.DarkRed;
             Console.WriteLine($"Opção Inválida, por favor digite uma opção válida");
             Console.ResetColor();
-            Thred.Sleep(3000)
+            Thred.Sleep(3000);
             break;
     }
     
