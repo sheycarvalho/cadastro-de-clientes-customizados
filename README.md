@@ -15,28 +15,31 @@
 <h3>Applied Technologies</h3>
 <ul>
   <li>C#</li>
+  <li>.NET</li>
 </ul>
 
 <h3>Project Planning</h3>
 <ul>
-  <li>The project was conducted for 8 weeks as one of the Back-end course requirements.</li>
-  <li>Project was broken into different branches on GIT for a better code organization.</li>
+  <li>The project was conducted for 8 weeks as one of the Back-end course requirements</li>
+  <li>Project was broken into different branches on GIT for a better code organization</li>
 </ul>
 
 <h3>Installation Requirements</h3>
 <ul>
-  <li>VS Code or similar to open and run the code.</li>
-  <li>Install the C# extension on the VS Code.</li>  
+  <li>VS Code</li>
+  <li>Install the C# extension on the VS Code</li>
+  <li>SDK and Runtime packages</li>
 </ul>
 
 <h3>Running the code</h3>
 <ul>  
-  <li>Use "dotnet run" to run the code.</li>
+  <li>Commands in the dotnet cli interface</li>
+  <li>Use "dotnet run" to run the code</li>
 </ul>
 
 <h3>Common Errors</h3>
 <ul>  
-  <li>Do not forget to install the C# extension on VSCode or similar.</li>
+  <li>Do not forget to install the C# extension on VSCode</li>
   <li>Double check if the command typed in the terminal is correct.</li>
 </ul>
 
