@@ -4,11 +4,12 @@
 
 <h3>Features</h3>
 <ul>
-  <li>Customer Registration.</li>
-  <li>Age verification (+18).</li>
-  <li>Classifying customers according to their nature (Natural or Legal).</li>
-  <li>Registration System for Natural Person.</l1>
-  <li>Registration System for Legal Entity.</l1>
+  <li>Modeling the customer registration system</li>
+  <li>Structure of classes, attributes, operations and relationships</li>
+  <li>Age verification (+18)</li>
+  <li>Validation of CPF/CNPJ</li>
+  <li>Structure of menu and submenu for selection of natural or legal person</l1>
+  <li>Natural or Legal Person Registration System</l1>
 </ul>
 
 <h3>Applied Technologies</h3>
