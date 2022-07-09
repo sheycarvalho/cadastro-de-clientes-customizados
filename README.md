@@ -40,7 +40,8 @@
 <h3>Common Errors</h3>
 <ul>  
   <li>Do not forget to install the C# extension on VSCode</li>
-  <li>Double check if the command typed in the terminal is correct.</li>
+  <li>Double check if the command typed in the terminal is correct</li>
+  <li>Check typos</li>
 </ul>
 
 <h3>Contributors</h3>
