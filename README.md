@@ -27,7 +27,7 @@
 <h3>Installation Requirements</h3>
 <ul>
   <li>VS Code</li>
-  <li>Install the C# extension on the VS Code</li>
+  <li>C# extension on the VS Code</li>
   <li>SDK and Runtime packages</li>
 </ul>
 
