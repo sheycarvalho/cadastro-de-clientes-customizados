@@ -7,6 +7,7 @@
   <li>Lógica da Programação</li>
   <li>Algoritmos</li>
   <li>Operadores</li>
+  <li>Lógica proposicional</li>
   <li>Fluxograma</li>
 </ul>
 
