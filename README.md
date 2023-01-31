@@ -2,49 +2,28 @@
 
 <p align="center">Project made using C# by <b>Sheyenne de Morais Carvalho</b>
 
-<h3>Features</h3>
+<h3>Características</h3>
 <ul>
-  <li>Modeling the customer registration system</li>
-  <li>Structure of classes, attributes, operations and relationships</li>
-  <li>Age verification (+18)</li>
-  <li>Validation of CPF/CNPJ</li>
-  <li>Structure of menu and submenu for selection of natural or legal person</l1>
-  <li>Natural or Legal Person Registration System</l1>
+  <li>Lógica da Programação</li>
+  <li>Algoritmos</li>
+  <li>Operadores</li>
+  <li>Fluxograma</li>
 </ul>
 
-<h3>Applied Technologies</h3>
+<h3>Tecnologias Aplicadas</h3>
 <ul>
-  <li>C#</li>
-  <li>.NET</li>
+  <li>JavaScript</li>
 </ul>
 
-<h3>Project Planning</h3>
+<h3>Planejamento do Projeto</h3>
 <ul>
-  <li>The project was conducted for 8 weeks as one of the Back-end course requirements</li>
-  <li>Project was broken into different branches on GIT for a better code organization</li>
+  <li>Descrever e representar a sequência de passos lógicos necessários para execução d euma tarefa em qualquer sistema</li>
+  <li>Aplicar técnicas de programação e ferramentas para desenvolvimento do código</li>
+  <li>Utilizar linguagem de programação para implementar o sistema</li>
 </ul>
 
-<h3>Installation Requirements</h3>
+<h3>Requerimentos de instalação</h3>
 <ul>
   <li>VS Code</li>
-  <li>C# extension on the VS Code</li>
-  <li>SDK and Runtime packages</li>
-</ul>
-
-<h3>Running the code</h3>
-<ul>  
-  <li>Commands in the dotnet cli interface</li>
-  <li>Use "dotnet run" to run the code</li>
-</ul>
-
-<h3>Common Errors</h3>
-<ul>  
-  <li>Do not forget to install the C# extension on VSCode</li>
-  <li>Double check if the command typed in the terminal is correct</li>
-  <li>Check typos</li>
-</ul>
-
-<h3>Contributors</h3>
-<ul>  
-  <li>Sheyenne de Morais Carvalho</li>  
+  <li>Node.js</li>
 </ul>
