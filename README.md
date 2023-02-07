@@ -1,6 +1,6 @@
 <h1 align="center">Programação de um sistema de cadastro de clientes customizados</h1>
 
-<p align="center">Project made using #Ct by <b>Sheyenne de Morais Carvalho</b>
+<p align="center">Project made using #C by <b>Sheyenne de Morais Carvalho</b>
 
 <h3>Características</h3>
 <ul>
