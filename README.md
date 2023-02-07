@@ -1,10 +1,10 @@
-<h1 align="center">Codificação de um sistema de cadastro de peças</h1>
+<h1 align="center">Programação de um sistemas de cadastro de clientes customizados</h1>
 
-<p align="center">Project made using JavaScript by <b>Sheyenne de Morais Carvalho</b>
+<p align="center">Project made using #Ct by <b>Sheyenne de Morais Carvalho</b>
 
 <h3>Características</h3>
 <ul>
-  <li>Lógica da Programação</li>
+  <li>Cadastro das pessoas físicas e jurídicas</li>
   <li>Algoritmos</li>
   <li>Operadores</li>
   <li>Lógica proposicional</li>
