@@ -1,29 +1,29 @@
-<h1 align="center">Programação de um sistema de cadastro de clientes customizados</h1>
+<h1 align="center">Programming a customized customer registration system</h1>
 
 <p align="center">Project made using #C by <b>Sheyenne de Morais Carvalho</b>
 
-<h3>Características</h3>
+<h3>Features</h3>
 <ul>
-  <li>Cadastro das pessoas físicas e jurídicas</li>
-  <li>Algoritmos</li>
-  <li>Operadores</li>
-  <li>Lógica proposicional</li>
-  <li>Fluxograma</li>
+  <li>Registration of natural and legal persons</li>
+  <li>Algorithms</li>
+  <li>Operators</li>
+  <li>Propositional logic</li>
+  <li>Flowchart</li>
 </ul>
 
-<h3>Tecnologias Aplicadas</h3>
+<h3>Applied Technologies</h3>
 <ul>
   <li>JavaScript</li>
 </ul>
 
-<h3>Planejamento do Projeto</h3>
+<h3>Project Planning</h3>
 <ul>
-  <li>Descrever e representar a sequência de passos lógicos necessários para execução de uma tarefa em qualquer sistema</li>
-  <li>Aplicar técnicas de programação e ferramentas para desenvolvimento do código</li>
-  <li>Utilizar linguagem de programação para implementar o sistema</li>
+  <li>Describe and represent the sequence of logical steps required to perform a task on any system</li>
+  <li>Apply programming techniques and tools for code development</li>
+  <li>Use programming language to implement the system</li>
 </ul>
 
-<h3>Requerimentos de instalação</h3>
+<h3>Installation requirements</h3>
 <ul>
   <li>VS Code</li>
   <li>Node.js</li>
